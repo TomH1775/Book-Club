@@ -19,7 +19,7 @@
   }
   
   .typewriter p {
-    font-family: "Lucida Handwriting";
+    font-family: monospace;
     font-size: 1.5rem;
     margin-inline: auto;
     overflow: hidden;
